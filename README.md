@@ -13,9 +13,13 @@ A simple simulation of the "Xing" game (that we play in Albania).
 ## How to read a sample analysis:
 ### Output:
 ```Element Value   Histogram```
+
 ```1               41              *****************************************```
+
 ```2               30              ******************************```
+
 ```3               29              *****************************```
+
 ```It took:  7.3214991092681885  seconds```
 
 
