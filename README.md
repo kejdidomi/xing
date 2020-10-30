@@ -11,7 +11,7 @@ A simple simulation of the "Xing" game (that we play in Albania).
 5. Run ```python analyzing_xing.py```
 
 ## How to read a sample analysis:
-###Output:
+### Output:
 Element Value   Histogram
 1               41              *****************************************
 2               30              ******************************
