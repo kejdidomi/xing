@@ -136,4 +136,7 @@ def xing(p=None):
     else:
         return
 
+if len(sys.argv) == 2:
+    xing(int(sys.argv[1]))
+
 # input() == 1
