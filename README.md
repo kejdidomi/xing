@@ -1,16 +1,16 @@
 # xing
 A simple simulation of the "Xing" game (that we play in Albania).
 
-How to Runb a game:
-1- Download the repo
-2- Open CMD
-3- Navigate to the folder containing the downloaded repo
-4- Run "python xing.py 1"
+## How to Run a game:
+1. Download the repo
+2. Open CMD
+3. Navigate to the folder containing the downloaded repo
+4. Run ```python xing.py 1```
 
-How to Run an Analysis of the game:
-5- Run "python analyzing_xing.py"
+## How to Run an Analysis of the game:
+5. Run ```python analyzing_xing.py```
 
-How to read a sample analysis:
+## How to read a sample analysis:
 Output:
 Element Value   Histogram
 1               41              *****************************************
